@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import { useSelector } from "react-redux"
 
-const quiz = () => {
+const Quiz = () => {
 
     const state = useSelector(state => state);
     // console.log(state)
@@ -74,4 +74,4 @@ const quiz = () => {
     )
 }
 
-export default quiz
+export default Quiz

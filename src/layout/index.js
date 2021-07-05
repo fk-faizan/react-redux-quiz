@@ -1,4 +1,4 @@
-import Quiz from './quiz/quiz';
+import Quiz from './quiz/Quiz';
 
 export {
     Quiz
